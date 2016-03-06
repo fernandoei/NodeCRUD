@@ -1,0 +1,24 @@
+{
+  "name": "crud",
+  "version": "0.0.1",
+  "description": "Ejemplo práctico de app CRUD con Node.js, Express y MongoDB.",
+  "bugs": {
+    "url": "https://github.com/fernandoei/NodeCRUD/issues",
+    "email": "mferna.92@gmail.com"
+  },
+  "license": "UNLICENSED",
+  "author": {
+    "name": "Fernando Espino",
+    "email": "mferna.92@gmail.com",
+    "url": "http://fernandoei.github.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fernandoei/NodeCRUD"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "mongoose": "^4.4.6"
+  }
+}
